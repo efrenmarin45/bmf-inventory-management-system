@@ -1,3 +1,5 @@
+// this is the section where we can updated Modal once the
+
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { withRouter } from "react-router-dom";
@@ -24,7 +26,9 @@ class Modal extends Component {
     assignee: "",
     monthDue: "",
     dayDue: "",
-    taskId: ""
+    taskId: "",
+ 
+
   };
 
   componentWillReceiveProps(nextProps) {
@@ -286,6 +290,9 @@ class Modal extends Component {
               />
             </label>
           </div>
+
+
+
           <div className="form-group">
             <div className="split">
               <label>
