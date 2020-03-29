@@ -2,12 +2,11 @@
 
 ## How To Access
 1) We developed this tool to be used internally but can be accessed by visiting the link provided below.
-
-[Link to Inventory Management System](https://bmf-inventory-management.herokuapp.com/dashboard)
-
 2) Register for access within the login modal.
 3) Log in using the credentials you created. 
 4) Feel free to add locations and products.
+
+[Link to Inventory Management System](https://bmf-inventory-management.herokuapp.com/dashboard)
 
 ## Stack (MERN & Redux)
 This project uses the following technologies
