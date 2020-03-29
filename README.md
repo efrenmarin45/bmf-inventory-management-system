@@ -1,10 +1,15 @@
-## Demo
+# Blue Moon Fabrics Inventory Management System
 
-[Go to Demo](https://bmf-inventory-management.herokuapp.com/dashboard) and create your own account.
+## How To Access
+1) We developed this tool to be used internally but can be accessed by visiting the link provided below.
 
+[Link to Inventory Management System](https://bmf-inventory-management.herokuapp.com/dashboard)
+
+2) Register for access within the login modal.
+3) Log in using the credentials you created. 
+4) Feel free to add locations and products.
 
 ## Stack (MERN & Redux)
-
 This project uses the following technologies
 
 - [MongoDB](https://www.mongodb.com/) for database
@@ -16,32 +21,8 @@ This project uses the following technologies
 - [SASS](https://sass-lang.com/) as CSS preprocessor
 - [Create React App](https://github.com/facebook/create-react-app)
 
-#### General
-
-- [x] Authentication
-- [x] Dashboard view
-
-#### Locations
-
-- [x] Create and fetch locations
-- [x] Edit team locations
-- [x] Delete locations
-- [x] Access shared locations
-
-#### Items
-
-- [x] Create, set deadlines for and assign items
-- [x] Update items
-- [x] Complete and delete items
-
-#### Deployment
-
-- [x] Deployment through Heroku
-
 ## Quick Start
-
 Get up and running with a development server using the following commands
-
 ```javascript
 // Install all dependencies for client & server
 npm run full-install
@@ -49,3 +30,10 @@ npm run full-install
 // Run client & development server with concurrently
 npm run dev
 ```
+## Contributions
+This is our second repo as the first one was shut down in favor of this one. Project team members include the following: 
+- Andy Suarez > React
+- Efren Marin > Database / Routes
+- Jeff Barroso > Routes / React
+- Neha Singh > CSS
+- Henry Tumanian > CSS
